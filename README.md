@@ -1,7 +1,7 @@
 ### Instructions
 
 1. Download the code
-   `https://github.com/madelacruzs/Queue-Management.git`
+   ` git clone https://github.com/madelacruzs/Queue-Management.git`
 2. Access to path folder
 3. run ```
    npm start
