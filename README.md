@@ -15,3 +15,11 @@
     Actions
 -   index.js
     Main or Tester file
+
+Console result from actions.txt
+
+> {1}:{6}
+> {2}:{3}
+> {3}:{4}
+> {4}:{7}
+> {5}:{8}
