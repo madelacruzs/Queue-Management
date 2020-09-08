@@ -1,4 +1,4 @@
-### Instructions#
+### Instructions
 
 1. Download the code
    `https://github.com/madelacruzs/Queue-Management.git`
