@@ -8,8 +8,6 @@
 
 ```
 
-```
-
 ### Code
 
 -   class/
@@ -20,3 +18,4 @@
     Actions
 -   index.js
     Main or Tester file
+```
