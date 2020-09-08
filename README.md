@@ -3,10 +3,7 @@
 1. Download the code
    ` git clone https://github.com/madelacruzs/Queue-Management.git`
 2. Access to path folder
-3. run ```
-   npm start
-
-```
+3. run `npm start`
 
 ### Code
 
@@ -18,4 +15,3 @@
     Actions
 -   index.js
     Main or Tester file
-```
